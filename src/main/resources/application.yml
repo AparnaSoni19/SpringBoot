@@ -1,0 +1,5 @@
+harddisk:
+    config:
+      size: 2TB
+      brand: Seagate
+      price: 6300
